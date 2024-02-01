@@ -1,0 +1,21 @@
+.san-pham{
+    display:flex ;
+}
+
+.san-pham.anh,
+.san-pham.info {
+    float: left;
+}
+
+.san-pham.info {
+    padding-left: 40px;
+    margin-left: 30px;
+}
+
+.map iframe{
+    margin-left: 10%;
+}
+
+slie-show iframe{
+    margin-left:15% ;
+}
